@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-am-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="1-am-abhi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1-am-abhi" alt="1-am-abhi" /></a> </p>
-
 - 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://abhi-1304.netlify.app/](https://abhi-1304.netlify.app/)
